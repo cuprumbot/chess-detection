@@ -1,3 +1,18 @@
+# Big files
+models/trained_model_pieces.pt
+
+# Training or detection runs
+runs/
+
+# Most of the dataset
+dataset/test/
+dataset/train/
+dataset/valid/
+
+# Base models
+yolov8m.pt
+yolov8s.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
